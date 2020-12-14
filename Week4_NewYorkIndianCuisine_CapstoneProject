@@ -1,0 +1,45 @@
+PROMPT
+Clearly define a problem or an idea of your choice, where you would need to leverage the Foursquare location data to solve or execute. Remember that data science problems always target an audience and are meant to help a group of stakeholders solve a problem, so make sure that you explicitly describe your audience and why they would care about your problem.
+
+This submission will eventually become your Introduction/Business Problem section in your final report. So I recommend that you push the report (having your Introduction/Business Problem section only for now) to your Github repository and submit a link to it.
+
+Introduction:
+
+My brother with his family has come to stay with me. His family is completely new to the country and they are used to living in India. Their comfort zone is totally different in India and they have challenges to adapt to the new neighborhood. He currently plans to live and work in New York with his primary job. He and his wife plan to start a side business which his wife can run. They want to open an Indian restaurant in New York as more and more people are now migrating from bay area to this neighborhood. This is an opportunity to establish a business in this new neighborhood. The break down is below.
+
+Business Problem:
+
+1. NEAR SCHOOLS: His kids and my kids who are of same age group can go to same school and being new to the country and educational system, this will help a lot if we choose the location of the restaurant closer to schools. Catering to business needs and school pick up/drop would be easy that way.
+
+2. LESS COMMUTE: His wife is still learning to drive. If the neighborhood caters to both driving less and also establishing a restaurant business it will benefit. So public transport should be available too.
+
+3. NEAR PARK & GROCERY SHOPS: It needs to be closer to grocery shops and parks for a reason. People might be going to park and might decide to eat out which will benefit the business instead of being in a busy high traffic area. Parking could be a hassle amidst high traffic. But a park nearby might help people to take out and sit in the park and eat.
+
+4. POPULATION: If the neighborhood is densely populated then the business can thrive easily.
+
+The above four points need to be considered for making this business proposal a thriving long term successful venture.
+
+MAIN FOCUS should be on finding a suitable location for opening the Indian restaurant cuisine around New York area.
+
+CHALLENGE: Tons of Indian cuisines are present in New York. Finding a right location in New York and sustain the business will be a challenge. Considering options like take out, quick delivery, fresh food, fast service all will play a role in succeeding. It might not be a fine dining experience but it could be a simple quick catering of food for fast paced NY life style.
+
+OBJECTIVE:
+
+My focus is to recommend using this project assignment, which neighborhood is more suitable for my brother and family to start the Indian restaurant business in New York area.
+
+PROMPT
+Describe the data that you will be using to solve the problem or execute your idea. Remember that you will need to use the Foursquare location data to solve the problem or execute your idea. You can absolutely use other datasets in combination with the Foursquare location data. So make sure that you provide adequate explanation and discussion, with examples, of the data that you will be using, even if it is only Foursquare location data.
+
+This submission will eventually become your Data section in your final report. So I recommend that you push the report (having your Data section) to your Github repository and submit a link to it.
+
+Data that is needed for recommending to this project are
+
+1. Complete neighborhood information of New York using Foursquare.com.
+
+2. School data from all these neighborhood for both middle and high school in New York.
+
+3. Availability of park, hiking trails, restaurants, grocery shops, medical care, religious place if possible, etc in New York.
+
+4. All types of Indian cuisine data in the neighborhood is essential to guide our analysis which type of cuisine will work and cater to customer needs.
+
+My Lab work am able to successfully extract all the above information. In the next week 2 part, I intend to perform some machine learning and data analytics with models and predict which type of cuisine can be a successful business model to thrive in the NY neighborhood which has almost 2000+ Indian cuisine types.
